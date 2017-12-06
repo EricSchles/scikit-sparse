@@ -18,6 +18,8 @@ Cholesky decomposition. Further contributions are welcome!
 For more details, including dependencies and installation
 instructions, see the [docs](https://scikit-sparse.readthedocs.org).
 
+How to build `python setup.py build_ext --inplace` 
+
 License
 -------
 
